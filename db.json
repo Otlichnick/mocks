@@ -1,0 +1,146 @@
+[
+    {
+        "currency": {
+            "coingecko_slug": "ethereum",
+            "logo_url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "platforms": [
+                {
+                    "network": "ethereum",
+                    "contract": null,
+                    "decimals": 18
+                }
+            ]
+        },
+        "wrapped_currency": {
+            "coingecko_slug": "wmatic",
+            "logo_url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
+            "name": "Wrapped Matic",
+            "symbol": "WMATIC",
+            "platforms": [
+                {
+                    "network": "ethereum",
+                    "contract": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+                    "decimals": 18
+                }
+            ]
+        },
+        "aToken": {
+            "coingecko_slug": "wmatic",
+            "logo_url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
+            "name": "Aave Polygon WMATIC",
+            "symbol": "amWMATIC",
+            "platforms": [
+                {
+                    "network": "polygon-pos",
+                    "contract": "0x8df3aad3a84da6b69a4da8aec3ea40d9091b2ac4",
+                    "decimals": 18
+                }
+            ]
+        },
+        "pool_address": "0x8dff5e27ea6b7ac08ebfdf9eb090f32ee9a30fcf",
+        "weth_gateway_address": "0xbEadf48d62aCC944a06EEaE0A9054A90E5A7dc97",
+        "network": "ethereum",
+        "liquidity_rate": "1.68",
+        "liquidity_available": "52123123",
+        "liquidity_available_usd": "52123123",
+        "principal_balance": "1200000000000000000",
+        "scaled_balance": "1240000000000000000",
+        "profit": "40000000000000000",
+        "profit_percentage": "3.12",
+        "profit_usd": "1.20"
+    },
+    {
+        "currency": {
+            "coingecko_slug": "matic-network",
+            "logo_url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/info/logo.png",
+            "name": "Polygon",
+            "symbol": "MATIC",
+            "platforms": [
+                {
+                    "network": "polygon-pos",
+                    "contract": null,
+                    "decimals": 18
+                }
+            ]
+        },
+        "wrapped_currency": {
+            "coingecko_slug": "wmatic",
+            "logo_url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
+            "name": "Wrapped Matic",
+            "symbol": "WMATIC",
+            "platforms": [
+                {
+                    "network": "polygon-pos",
+                    "contract": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+                    "decimals": 18
+                }
+            ]
+        },
+        "aToken": {
+            "coingecko_slug": "wmatic",
+            "logo_url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
+            "name": "Aave Polygon WMATIC",
+            "symbol": "amWMATIC",
+            "platforms": [
+                {
+                    "network": "polygon-pos",
+                    "contract": "0x8df3aad3a84da6b69a4da8aec3ea40d9091b2ac4",
+                    "decimals": 18
+                }
+            ]
+        },
+        "pool_address": "0x8dff5e27ea6b7ac08ebfdf9eb090f32ee9a30fcf",
+        "weth_gateway_address": "0xbEadf48d62aCC944a06EEaE0A9054A90E5A7dc97",
+        "network": "polygon-pos",
+        "liquidity_rate": "1.68",
+        "liquidity_available": "52123123",
+        "liquidity_available_usd": "52123123",
+        "principal_balance": "14123000000000000000",
+        "scaled_balance": "15321000000000000000",
+        "profit": "1200000000000000000",
+        "profit_percentage": "8.48",
+        "profit_usd": "1.20"
+    },
+    {
+        "currency": {
+            "coingecko_slug": "tether",
+            "logo_url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+            "name": "Tether",
+            "symbol": "USDT",
+            "platforms": [
+                {
+                    "network": "polygon-pos",
+                    "contract": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+                    "decimals": 6
+                }
+            ]
+        },
+        "wrapped_currency": null,
+        "aToken": {
+            "coingecko_slug": "ave-polygon-usdt",
+            "logo_url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+            "name": "Aave Polygon USDT",
+            "symbol": "amusdt",
+            "platforms": [
+                {
+                    "network": "polygon-pos",
+                    "contract": "0x60d55f02a771d515e077c9c2403a1ef324885cec",
+                    "decimals": 6
+                }
+            ]
+        },
+        "pool_address": "0x8dff5e27ea6b7ac08ebfdf9eb090f32ee9a30fcf",
+        "weth_gateway_address": "0xbEadf48d62aCC944a06EEaE0A9054A90E5A7dc97",
+        "network": "polygon-pos",
+        "liquidity_rate": "0.52",
+        "liquidity_available": "52123123",
+        "liquidity_available_usd": "52123123",
+        "principal_balance": "14300000",
+        "scaled_balance": "15512640",
+        "profit": "1212640",
+        "profit_percentage": "8.48",
+        "profit_usd": "1.20"
+    }
+]
